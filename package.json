@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/purwnt/ethereum-frontend-web-app/issues"
   },
-  "homepage": "https://github.com/purwnt/ethereum-frontend-web-app#readme"
+  "homepage": "https://github.com/purwnt/ethereum-frontend-web-app#readme",
+  "dependencies": {
+    "ethereumjs-testrpc": "^6.0.3",
+    "web3": "^1.0.0-beta.26"
+  }
 }
